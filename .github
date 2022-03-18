@@ -1,0 +1,88 @@
+<!doctype html>
+<html>
+
+<head>
+<title> In the Dark </title>
+<link rel="stylesheet" href="aleiawebsitemain.css" >
+<body background="contextbg.jpg" class="abt_bg">
+
+<style>
+a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: gray;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>
+
+</head>
+
+<body>
+
+<div class="title">
+In the Dark
+</div>
+
+&nbsp;
+
+ <div align="center">
+ <img src="itd_abt.jpg" width="500" height="300" controls>
+ </img>
+ </div>
+
+<div class="hyperlink">
+<a href="ITDwebpage.html"> click 'here' to see the poem </a>
+</div>
+
+<p class="about">
+<b><i>In the dark</i></b> is a self-help poem written by Aleia Grace Ramirez. A short written poem  with four stanzas with four lines each stanza. Inspired by the current trend of tragedy stories, the author wrote this poem. A very inspiring and emotional poem. </p>
+ 
+ <h2 class="pltitle"> Plot </h2>
+ 
+ <p class="plot">
+ The poem is about a person who's alone in life. It focused on the main character's  point of view. With the genre of self-help, it is made to inspire and encourage the readers. The author wrote this in an emotional manner, aiming to make the readers feel the same way as the character. With the very short but detailed poem, it has a lot of hidden messages inside.  It says about aperson who succeeds alone. It also meant that a candle signifies a lonely person. A candle lights up for itself til the end, the poem's objective is to make people know that they are powerful just by themself.  It's because a person can stand alone, succeed alone.
+ </p>
+
+<h2 class="pltitle"> Characters </h2>
+
+<p class="characters"> 
+The characters involved in the poem is the main character alone. The main character's official identity is unknown, no name was given.
+</p>
+
+<h2 class="pltitle"> Music </h2>
+
+<p class="music"> 
+As this poem has a video version. A background music was used, from a pianist, Jurrivh. The music was used to make the poem more emotional than the original. It fitted with the voice of the author reading out the poem. 
+</p>
+
+<h2 class="pltitle"> Author </h2>
+
+<p class="author">
+The author of the poem is Aleia Grace Ramirez. She is a junior high school student who writes different kinds of literatures. She just began her journey in writing, constructive criticism would be lovely for her. This is just one of her works, she has many unpublished poems and stories. Let us accompany Aleia to her exporation i the writing industry.
+</p>
+
+<div class="feedb">
+<a href = "feedbackitd.html">
+for feedbacks and messages click here
+</a>
+</div>
+
+</body>
+</html>
